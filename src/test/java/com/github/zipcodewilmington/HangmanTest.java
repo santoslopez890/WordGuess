@@ -1,4 +1,6 @@
 package com.github.zipcodewilmington;
+import java.util.Random;
+import java.util.Scanner;
 
 /**
  * @author xt0fer
@@ -6,4 +8,8 @@ package com.github.zipcodewilmington;
  * @date 5/27/21 11:02 AM
  */
 public class HangmanTest {
+
+
+
+
 }
